@@ -1,0 +1,39 @@
+{
+  "brief": {
+    "audience": "Small business owners and small teams",
+    "market": "United Kingdom",
+    "product": "A task management product for teams of 1–20 people, with task assignment, deadline reminders and project progress tracking."
+  },
+  "channels": [
+    {
+      "evidence": "The contact page describes support for owner-managers of businesses with up to 50 employees and considers suitable one-off contributor articles. Source reviewed on 9 November 2026.",
+      "name": "Small Business UK",
+      "reason": "Its owner-manager audience overlaps with UK small-business buyers. A practical article about assigning tasks and tracking deadlines is a plausible editorial pitch; this is our inference, not a publisher endorsement.",
+      "source": "https://smallbusiness.co.uk/contact-us/",
+      "unknown": "Acceptance, editorial requirements and any commercial terms must be confirmed. The audience is broader than teams of 1–20.",
+      "url": "https://smallbusiness.co.uk/"
+    },
+    {
+      "evidence": "The contact page invites organisations interested in working with the team and offers a newsletter about small-business campaigns, programmes and events. Source reviewed on 9 November 2026.",
+      "name": "Small Business Britain",
+      "reason": "The UK small-business focus makes an educational session on team coordination worth exploring. A product demonstration is a proposed idea, not a confirmed opportunity.",
+      "source": "https://smallbusinessbritain.uk/contact",
+      "unknown": "Commercial product eligibility, newsletter placement and audience team sizes are unconfirmed.",
+      "url": "https://smallbusinessbritain.uk/"
+    },
+    {
+      "evidence": "The contact page invites prospective authors and original articles through its contact form. Source reviewed on 9 November 2026.",
+      "name": "SmallBusinessPro",
+      "reason": "A small-business publication with a stated article submission route may suit a useful guide to managing deadlines and responsibilities.",
+      "source": "https://www.smallbusinesspro.co.uk/contact.html",
+      "unknown": "Current editorial activity, promotional-content policy, readership and acceptance are unconfirmed.",
+      "url": "https://www.smallbusinesspro.co.uk/"
+    }
+  ],
+  "created": "2026-11-11T12:16:48.708327+00:00",
+  "draft": "Subject: Practical content collaboration enquiry\n\nHello Small Business UK team,\n\nI am getting in touch about a product described as follows: A task management product for teams of 1–20 people, with task assignment, deadline reminders and project progress tracking.\n\nIt is intended for Small business owners and small teams in United Kingdom. We are exploring relevant channels and would like to ask whether a practical educational article or a short product demonstration could be suitable for your audience.\n\nWould you be open to reviewing a brief outline? Please let us know your submission guidelines, the appropriate contact, and any applicable commercial terms. We would be happy to adapt the proposal to your editorial requirements.\n\nKind regards,\n[Your name]\n[Product / company]\n[Contact details]",
+  "id": "c7bcefc8-7891-4e04-9237-b0364cec7e01",
+  "mode": "sample",
+  "next_step": "",
+  "notice": "Sample evidence library, reviewed 9 November 2026. Supports UK small-business task-management briefs only. No live search was performed."
+}
